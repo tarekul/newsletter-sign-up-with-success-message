@@ -4,7 +4,7 @@
 ![Desktop error preview](./screenshots/desktop-error.png)
 ![Desktop Success preview](./screenshots/desktop-success.png)
 
-![Mobile preview](./screenshots/mobile-preview.png)
+![Mobile preview](./screenshots/mobile-error.png)
 ![Mobile Success preview](./screenshots/mobile-success.png)
 
 ## Accomplishments
