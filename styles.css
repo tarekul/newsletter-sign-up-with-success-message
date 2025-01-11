@@ -22,7 +22,7 @@ body {
 .main {
     display: flex;
     flex-direction: row;
-    max-width: 35%;
+    max-width: 80%;
     margin: 0 auto;
     background-color: var(--white);
     border-radius: 10px;
